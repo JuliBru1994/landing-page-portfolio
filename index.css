@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Fuente-navegador';
+    src: url(./Fuentes/Baloo2-VariableFont_wght.ttf);
+}
+
+.navbar {
+    background-color: #faaed9;
+    width: 100%;
+    height: 120px;
+    border: 2px solid #f830c2;
+    display: flex;
+    flex: ;
+}
+
+.logo {
+    width: 150px;
+    height: 120px;
+}
+
+.link {
+    font-family: 'Fuente-navegador';
+    text-decoration: none;
+    font-size: 20px;
+    margin: 10px;
+    padding: 30px 10px 30px 40px;
+    position: relative;
+    left: 40%;
+    color: white
+}
